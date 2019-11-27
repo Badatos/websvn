@@ -1,3 +1,5 @@
 {
+    "name": "websvnphp/websvn",
+    "description": "Fork from WebSVN https://websvnphp.github.io/",
     "license": "GPL-2.0-or-later"
 }
